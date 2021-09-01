@@ -24,6 +24,12 @@ title: Data Science vs Statistics!
    I see myself having a stronger background in Statistics than in Computer Science. I am a more Statistician than a Data Scientist. Sure, you can say I can apply my knowledge about statistical methods in different types of data sets, however, with Big Data, things change direction a little bit just like for different purposes of analyses, whether you are looking for model prediction or data interpretation, statistical methods used on the data are also different. I still have much work to do in gaining experience related to Computer Science field. 
 
 
+
+
+
+
+
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
