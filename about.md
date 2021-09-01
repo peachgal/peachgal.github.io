@@ -16,7 +16,7 @@ A place to include any other types of information that I'd like to include about
 
 Here are some pictures of me!
 
-![text1](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas1.png "pic 1")
+![text1](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas1.png "pic 1")
 
 ![text2](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas2.png "pic 2")
 
