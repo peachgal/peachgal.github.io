@@ -20,4 +20,6 @@ Here is a picture of me!
 
 ### Contact me
 
-[cwang51@ncsu.edu](mailto:cwang51@ncsu.edu) or [peachgal99@gmail.com](mailto: peachgal99@gmail.com)
+[cwang51@ncsu.edu](mailto:cwang51@ncsu.edu) 
+or 
+[peachgal99@gmail.com](mailto: peachgal99@gmail.com)
