@@ -16,15 +16,15 @@ A place to include any other types of information that I'd like to include about
 
 Here are some pictures of me!
 
-![](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas1.png)
+![text1](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas1.png "pic 1")
 
-![](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas2.png)
+![text2](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas2.png "pic 2")
 
-![](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas3.png)
+![text3](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas3.png "pic 3")
 
-![](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas4.png)
+![text4](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas4.png "pic 4")
 
-![](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas5.png)
+![text5](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas5.png "pic 5")
 
 ### Contact me
 
