@@ -14,7 +14,7 @@ My most recent nature encounter is a grizzly bear at Glacier National Park! Luck
 
 A place to include any other types of information that I'd like to include about myself.
 
-Here is a picture of me!
+Here are some pictures of me!
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
