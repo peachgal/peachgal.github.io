@@ -18,13 +18,13 @@ Here are some pictures of me!
 
 ![text1](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas1.png "pic 1")
 
-![text2](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas2.png "pic 2")
+![text2](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas2.png "pic 2")
 
-![text3](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas3.png "pic 3")
+![text3](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas3.png "pic 3")
 
-![text4](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas4.png "pic 4")
+![text4](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas4.png "pic 4")
 
-![text5](https://github.com/peachgal/peachgal.github.io/blob/master/images/jas5.png "pic 5")
+![text5](https://raw.githubusercontent.com/peachgal/peachgal.github.io/master/images/jas5.png "pic 5")
 
 ### Contact me
 
