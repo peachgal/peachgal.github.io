@@ -1,4 +1,4 @@
-### For [GitHub page project repo](https://github.com/peachgal/vignette_project) 
+### For the [GitHub page project repo](https://github.com/peachgal/vignette_project) 
 
 ### For the [usual rendered project repo](https://peachgal.github.io/vignette_project/)
 
