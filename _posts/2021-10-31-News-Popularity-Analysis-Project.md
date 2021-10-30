@@ -12,11 +12,11 @@
    
 3. What are your big take-aways from this project?
    
+   I learnt a lot of things about automating reports and how convenient it is to run those automated reports if I would like to update something frequently. I learnt what Dr. Post meant by commit/merge conflicts working with a partner together on repo. At first, I am scared of those because my experience with GitHub has not been pleasant, and I still cannot grasp how it functions. But slowly and surely, I understand how powerful GitHub is and why so many people are using it for projects and collaborative work. However, after experiencing some commit/merge issues, GitHub does a great job telling me where the conflicted sections are by highlighting them with erroneous syntax. I thought I had to find them in a million code chunks that my partner and I created. Turned out, it is so easy. Collaborative work is not as bad as I thought. Ha!
    
+   By reading the study paper to learn more about our data and subjects, I learnt the cruel truth about online news and how influential they can be. I think the world is changing, to be better or worse, I don't know. But, I think nowadays, people need to stay away from social media if they need be. Everything has pros and cons. News have to facts, but it is up to the content providers whether or not they want to publish certain news as long as the news they published are facts. It is subjective. However, it is up to people to choose the neutral zone content providers if there are some. 
    
-   
-   
-   
+   This project also got me thinking, three weeks ago, Texas A&M versus Alabama football game. During pre-game show, all the commentors and statistics all predicted A&M to lose, by a large, blow-out game. I believe no one picked A&M to win (hardcore fans maybe) judging by their performance from previous two games. Since their starting quarterback got injured in the early season, the commentators and everyone said, "Texas A&M doesn't have a quarterback. They are in trouble". Backup quarterback Calzada received so many negative comments about his performance, even I judged him too prior Alabama game. But man, he did great in that game against Alabama. As matter of fact, everyone did such a great job since football is a team sport. In that game, defense, offense, even special team all contributed to their eventual win over Alabama, then-ranked-number-one team in the nation. My point is, Calzada must have known people were judging his aweful performance before Alabama game. How did he manage to focus on his practice and tune off all the negativities around him? This is what I meant by with the power of internet, sometimes, people just need to turn away from the influential news if they need to. 
    
 ### Contact me
 
