@@ -1,6 +1,6 @@
-### For the [GitHub page project 2 repo](https://github.com/peachgal/vignette_project) 
+### For the [GitHub page project 2 repo](https://github.com/IlanaFeldman/ST558-Project-2)
 
-### For the [usual rendered project 2 repo](https://peachgal.github.io/vignette_project/)
+### For the [usual rendered project 2 repo](https://IlanaFeldman.github.io/ST558-Project-2/)
 
 1. What would you do differently?
    
