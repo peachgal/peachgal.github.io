@@ -1,13 +1,18 @@
 1. What (if anything) has changed about what you think a data scientist is and what they do?
 
-
-
-
-
+   Reading through my first blog post about what I think a data scientist is and realized I have learnt everything I think what a scientist should know this semester in this course and much more in depth. However, what I addressed in the first blog post about what I think a data scientist is was in a broad concept. Now that I have learnt using different methods to handle different types of data as well as supervised learning versus unsupervised learning methods given different goals/purposes. Not only did I understand and learn what a data scientist is in more depth but also realize beling a data scientist involves a lot of self-learning, looking for techniques whether it is to extract data from a particular data type or to build a predictive model given highly corrected predictors. I think being a data scientist is a never-ending learning race, always getting updated on the latest methods. Maybe a lot of careers are like that, but now I think a data scientist has to consider two aspects of computer science and statistics and be able to combine them in a way that suits his/her needs. 
 
 2. What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
-
-
+   I think R has come a long way since my first day with it. RStudio has definitely stepped up their game by integrating with GitHub, and this is big. People are able to work on the collaborative projects together no matter where they are. GitHub is definitely a superb convenient way for me to learn different packages about R that people demostrate by using GitHub. Some vignettes that people created about packages in R are very thourough and nice. I will, for sure, continue to use R going forward because for one, it is a free, open-source program, and a lot of people have developed tons and tons of packages with good defaults for R. In addition, R Shiny is also a great to show your analyses to people using interactive web applications without needing HTML and JavaScript knowledge. 
+   
+   One feature I consider the most useful thing I learnt in this course about RStudio is R Project. I have always been an unorganized person. My files are always everywhere. It is always very hard for me if I want to reproduce some of past works because I cannot find certain datasets or files related to the project. I absolutely just love how by using R Project, all the files and datasets about this project are stored and sorted in one place whether or not it is linked to GitHub. Imagine if I had worked on 100 projects, my life would be a disaster without R Project features. 
 
 3. What things are you going to do differently in practice now that you've had this course?
+
+   There are so many things I am going to do differently in practice now that I have had this course. As a matter of fact, I already did things differently in my other course now. I used to think plotting is difficult in R, and the plots are not pretty either. However, now that I have learnt how to graph using ggplot2 package, I have been plotting everything using ggplot2 now and have been very comfortable with it now that I learn it is all about layering. 
+   
+   In addition to graphs, helper functions are indeed very "helpful". Not only did they help organize and group mini functions together but also provide potential add-on functionalities and neat looking. Functions are easy to build, and some functions such as apply(), lapply(), tapply(), are super useful as well (vectorized functions are more efficient than loops). 
+   
+   Other than those two great things stated above, R Project is another feature I would definitely use more often in my future projects. Besides, setting working directory for every project is a plus and less headaching for reading in data and saving outputs. 
+   
